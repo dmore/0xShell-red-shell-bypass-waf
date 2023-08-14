@@ -1,6 +1,6 @@
 <?php
 //-----------------Password---------------------
-$_password = "831167d1d11e16b877055beb00ffec4b"; //admin
+$_password = ""; //admin
 $_agent = true;
 $_unicode = 'UTF-8';
 $_action = 'Anonymizer';
